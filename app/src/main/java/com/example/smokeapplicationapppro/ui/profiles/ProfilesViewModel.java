@@ -1,4 +1,4 @@
-package com.example.smokeapplicationapppro.ui.profile;
+package com.example.smokeapplicationapppro.ui.profiles;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

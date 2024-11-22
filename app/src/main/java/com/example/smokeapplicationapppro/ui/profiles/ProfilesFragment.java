@@ -1,4 +1,4 @@
-package com.example.smokeapplicationapppro.ui.profile;
+package com.example.smokeapplicationapppro.ui.profiles;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
