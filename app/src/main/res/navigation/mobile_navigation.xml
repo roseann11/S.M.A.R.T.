@@ -12,14 +12,14 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="com.example.smokeapplicationapppro.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:id="@+id/navigation_tips"
+        android:name="com.example.smokeapplicationapppro.ui.tips.TipsFragment"
+        android:label="@string/title_tips"
+        tools:layout="@layout/fragment_tips" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="com.example.smokeapplicationapppro.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        android:id="@+id/navigation_profiles"
+        android:name="com.example.smokeapplicationapppro.vi.profile.ProfilesFragment"
+        android:label="@string/title_profiles"
+        tools:layout="@layout/fragment_profiles" />
 </navigation>

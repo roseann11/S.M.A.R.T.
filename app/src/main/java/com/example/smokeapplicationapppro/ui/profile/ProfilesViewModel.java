@@ -1,16 +1,16 @@
-package com.example.smokeapplicationapppro.ui.notifications;
+package com.example.smokeapplicationapppro.ui.profile;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class NotificationsViewModel extends ViewModel {
+public class ProfilesViewModel extends ViewModel {
 
     private final MutableLiveData<String> mText;
 
-    public NotificationsViewModel() {
+    public ProfilesViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is notifications fragment");
+        mText.setValue("This is Profiles fragment");
     }
 
     public LiveData<String> getText() {
