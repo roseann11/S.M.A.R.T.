@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "182452551718",
+    "firebase_url": "https://smokedetectiondatabase-default-rtdb.firebaseio.com",
+    "project_id": "smokedetectiondatabase",
+    "storage_bucket": "smokedetectiondatabase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182452551718:android:3e73d87b67c1f68deb26e7",
+        "android_client_info": {
+          "package_name": "com.example.smokeapplicationapppro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDg6616Nrrqbygr_Ed_kBf84c6Gt9zkOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182452551718:android:8a176aa0c6b50af3eb26e7",
+        "android_client_info": {
+          "package_name": "com.example.smokedetectorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDg6616Nrrqbygr_Ed_kBf84c6Gt9zkOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
