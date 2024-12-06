@@ -1,27 +1,3 @@
-<h1 align="center">S.M.A.R.T. - Smoke Monitoring and Real-Time Tracking<br>
-<br>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Instant+smoke+alerts+to+your+device;Real-time+fire+notifications+instantly" alt="Typing SVG" /></a>
-  </a>
-</p>  
-</h1>
-
-## :rocket: Project Title
-**S.M.A.R.T. - Smoke Monitoring and Real-Time Tracking**
-
-## :handshake: Team Name
-**SmokeSync**
-
-## :busts_in_silhouette: Team Members
-- **Frontend Developer**: Nerine Rosette Recto
-- **Backend Developer**: Rose Ann Aguilar
-- **Project Manager/Fullstack Developer**: Jaron Louise Arquillo
-
-## :teacher: Instructor
-**Mr. Poul Isaac De Chavez**
-
----
 
 ## :spiral_notepad: Project Overview
 
