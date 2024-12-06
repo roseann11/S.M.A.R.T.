@@ -8,4 +8,12 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="blue">#5479F7</color>
+    <color name="grey">#757575</color>
+    <color name="green">#7ED957</color>
+    <color name="yellow">#FFD700</color>
+    <color name="red">#FF4444</color>
+    <color name="status_active">#4CAF50</color>
+    <color name="status_inactive">#FF5722</color>
+    <string name="emergency_contact"><font color="#5479F7">EMERGENCY CONTACT</font></string>
+
 </resources>
